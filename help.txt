@@ -1,0 +1,16 @@
+HELP MENU :
+This is the help menu , below are listed the avaliable functions for this script :
+-help : show help (this menu)
+if the entry is a folder :
+-AfficheNbF : show the number of files inside directory
+-AfficheNbD : show the number of directories in the directory
+-TypeFiles : show types of files within the directory
+-AccessFiles : show the name of the files and their rights
+-PropFiles : show the name of the files and their owners
+-Stat : show statistics concerning directory
+if the entry is a file :
+-TypeFile : show the type of the file
+-AccessFile : show the rights of the file
+-PropFile : show group and owner of the file
+-Ecriture : show users that have the right of writing
+Quit : quit the script
